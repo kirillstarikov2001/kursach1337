@@ -19,7 +19,7 @@
     <td style="text-align: right; border: none; height: 20em;">
         <div style="float: right;" align="left">
             <b>Разработал</b>: <br/>
-           Логинов Михаил Алексеевич <br/>
+           Стариков Кирилл Александрович <br/>
             <b>Проверил</b>: <br/>
             Колесников Евгений Иванович
         </div>
